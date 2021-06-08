@@ -66,6 +66,4 @@ function _instanceof(obj, Fn) {
   }
   return false;
 }
-function a() {
-  console.log(111);
-}
+
